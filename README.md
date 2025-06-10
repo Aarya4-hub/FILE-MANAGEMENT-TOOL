@@ -59,3 +59,9 @@ At end it asks user ,if u want to exit then press 4.
 📚Learning Objectives
 
 The primary learning objective of this project is to help beginners understand the fundamentals of file handling in C++. By building this application, learners will become familiar with how to use file streams to write, read, and append data. It also enhances knowledge of basic input/output operations, control structures, and working with text files. Additionally, this task strengthens problem-solving skills by requiring users to handle file existence checks and menu-driven interfaces. This small project also serves as a foundation for larger applications that involve data storage and retrieval, providing a hands-on introduction to real-world programming concepts.
+
+
+Ouutput
+
+![Image](https://github.com/user-attachments/assets/60dc7d61-8c71-4ef4-8ffc-11961f3c7078)
+
